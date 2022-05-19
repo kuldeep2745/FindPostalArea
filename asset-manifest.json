@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FindPostalArea/static/css/main.e7720ab7.css",
+    "main.js": "/FindPostalArea/static/js/main.a9435e6c.js",
+    "static/js/787.0d59af7d.chunk.js": "/FindPostalArea/static/js/787.0d59af7d.chunk.js",
+    "index.html": "/FindPostalArea/index.html",
+    "main.e7720ab7.css.map": "/FindPostalArea/static/css/main.e7720ab7.css.map",
+    "main.a9435e6c.js.map": "/FindPostalArea/static/js/main.a9435e6c.js.map",
+    "787.0d59af7d.chunk.js.map": "/FindPostalArea/static/js/787.0d59af7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.a9435e6c.js"
+  ]
+}
